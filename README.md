@@ -1,4 +1,4 @@
-#Alice in Fairy Tale_WebGL
+# Alice in Fairy Tale_WebGL
 
 A sample game for [ScenarioFlow](https://github.com/ItoAkira2023/ScenarioFlow).
 
